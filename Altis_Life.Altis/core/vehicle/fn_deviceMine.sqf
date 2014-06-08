@@ -31,7 +31,7 @@ _item = switch(true) do {
 	case (_zone in ["peaches_1","peaches_2","peaches_3","peaches_4"]): {"peach"};
 	case (_zone in ["heroin_1"]): {"heroinu"};
 	case (_zone in ["cocaine_1"]): {"cocaine"};
-	case (_zone in ["weed_1"]): {"marijuana"};
+	case (_zone in ["weed_1"]): {"cannabis"};
 	case (_zone in ["lead_1"]): {"copperore"};
 	case (_zone in ["iron_1"]): {"ironore"};
 	case (_zone in ["salt_1"]): {"salt"};
