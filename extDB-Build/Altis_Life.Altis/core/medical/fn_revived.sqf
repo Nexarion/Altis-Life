@@ -40,4 +40,5 @@ hideBody life_corpse;
 player setVariable["Revive",nil,TRUE];
 player setVariable["name",nil,TRUE];
 player setVariable["Reviving",nil,TRUE];
+life_carryWeight = 0;
 [] call life_fnc_hudUpdate; //Request update of hud.
